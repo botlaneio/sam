@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Ronin // Neural Edges",
+  "description": "Cyberpunk hero section featuring Ronin-X with spotlight cursor reveal, interactive product frame card, and operative specs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
